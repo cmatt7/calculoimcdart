@@ -1,5 +1,5 @@
-import 'package:calculoimcdart/calculoimcdart.dart' as calculoimcdart;
+import 'package:calculoimcdart/calculoimcdart.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${calculoimcdart.calculate()}!');
+  calculateIMC();
 }
